@@ -8,4 +8,5 @@ class Persona(models.Model):
 
 
 
-class Estudiante(models.Model)
+class Estudiante(models.Model):
+    
